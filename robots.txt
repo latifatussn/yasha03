@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://pancartoto.fairmlbook.org/sitemap.xml
